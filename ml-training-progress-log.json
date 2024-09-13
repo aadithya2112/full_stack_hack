@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2024-09-13T08:00:00",
+    "epoch": 1,
+    "total_epochs": 100,
+    "batch": 1,
+    "total_batches": 5000,
+    "progress": 0.0002,
+    "loss": 2.3456,
+    "accuracy": 0.3215,
+    "learning_rate": 0.001,
+    "time_elapsed": "00:00:00",
+    "time_remaining": "15:59:59"
+  },
+  {
+    "timestamp": "2024-09-13T08:01:00",
+    "epoch": 1,
+    "total_epochs": 100,
+    "batch": 50,
+    "total_batches": 5000,
+    "progress": 0.01,
+    "loss": 2.1234,
+    "accuracy": 0.3876,
+    "learning_rate": 0.001,
+    "time_elapsed": "00:01:00",
+    "time_remaining": "15:58:59"
+  },
+  {
+    "timestamp": "2024-09-14T00:00:00",
+    "epoch": 100,
+    "total_epochs": 100,
+    "batch": 5000,
+    "total_batches": 5000,
+    "progress": 1.0,
+    "loss": 0.0123,
+    "accuracy": 0.9987,
+    "learning_rate": 0.0001,
+    "time_elapsed": "16:00:00",
+    "time_remaining": "00:00:00"
+  }
+]

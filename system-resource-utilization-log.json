@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": "2024-09-13T08:00:00",
+    "cpu": {
+      "utilization": 87,
+      "temperature": 65,
+      "frequency": 3.2
+    },
+    "memory": {
+      "total": 1024,
+      "used": 768,
+      "free": 256
+    },
+    "disk": {
+      "read_speed": 2.1,
+      "write_speed": 0.156,
+      "iops": 15000
+    },
+    "network": {
+      "receive": 125,
+      "transmit": 45
+    },
+    "power_consumption": 850
+  },
+  {
+    "timestamp": "2024-09-13T08:01:00",
+    "cpu": {
+      "utilization": 90,
+      "temperature": 68,
+      "frequency": 3.4
+    },
+    "memory": {
+      "total": 1024,
+      "used": 832,
+      "free": 192
+    },
+    "disk": {
+      "read_speed": 1.9,
+      "write_speed": 0.187,
+      "iops": 16000
+    },
+    "network": {
+      "receive": 130,
+      "transmit": 50
+    },
+    "power_consumption": 875
+  }
+]
